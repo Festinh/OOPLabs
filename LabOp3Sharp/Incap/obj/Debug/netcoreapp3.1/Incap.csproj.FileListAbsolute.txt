@@ -1,0 +1,13 @@
+D:\C# Projects\LabOp3Sharp\Incap\bin\Debug\netcoreapp3.1\Incap.exe
+D:\C# Projects\LabOp3Sharp\Incap\bin\Debug\netcoreapp3.1\Incap.deps.json
+D:\C# Projects\LabOp3Sharp\Incap\bin\Debug\netcoreapp3.1\Incap.runtimeconfig.json
+D:\C# Projects\LabOp3Sharp\Incap\bin\Debug\netcoreapp3.1\Incap.runtimeconfig.dev.json
+D:\C# Projects\LabOp3Sharp\Incap\bin\Debug\netcoreapp3.1\Incap.dll
+D:\C# Projects\LabOp3Sharp\Incap\bin\Debug\netcoreapp3.1\Incap.pdb
+D:\C# Projects\LabOp3Sharp\Incap\obj\Debug\netcoreapp3.1\Incap.csprojAssemblyReference.cache
+D:\C# Projects\LabOp3Sharp\Incap\obj\Debug\netcoreapp3.1\Incap.csproj.CoreCompileInputs.cache
+D:\C# Projects\LabOp3Sharp\Incap\obj\Debug\netcoreapp3.1\Incap.AssemblyInfoInputs.cache
+D:\C# Projects\LabOp3Sharp\Incap\obj\Debug\netcoreapp3.1\Incap.AssemblyInfo.cs
+D:\C# Projects\LabOp3Sharp\Incap\obj\Debug\netcoreapp3.1\Incap.dll
+D:\C# Projects\LabOp3Sharp\Incap\obj\Debug\netcoreapp3.1\Incap.pdb
+D:\C# Projects\LabOp3Sharp\Incap\obj\Debug\netcoreapp3.1\Incap.genruntimeconfig.cache
