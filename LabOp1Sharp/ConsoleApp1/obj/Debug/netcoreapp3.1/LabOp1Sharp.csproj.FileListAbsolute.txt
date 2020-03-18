@@ -1,0 +1,11 @@
+D:\C# Projects\LabOp1sharp\ConsoleApp1\bin\Debug\netcoreapp3.1\LabOp1Sharp.exe
+D:\C# Projects\LabOp1sharp\ConsoleApp1\bin\Debug\netcoreapp3.1\LabOp1Sharp.deps.json
+D:\C# Projects\LabOp1sharp\ConsoleApp1\bin\Debug\netcoreapp3.1\LabOp1Sharp.runtimeconfig.json
+D:\C# Projects\LabOp1sharp\ConsoleApp1\bin\Debug\netcoreapp3.1\LabOp1Sharp.runtimeconfig.dev.json
+D:\C# Projects\LabOp1sharp\ConsoleApp1\bin\Debug\netcoreapp3.1\LabOp1Sharp.dll
+D:\C# Projects\LabOp1sharp\ConsoleApp1\bin\Debug\netcoreapp3.1\LabOp1Sharp.pdb
+D:\C# Projects\LabOp1sharp\ConsoleApp1\obj\Debug\netcoreapp3.1\LabOp1Sharp.csprojAssemblyReference.cache
+D:\C# Projects\LabOp1sharp\ConsoleApp1\obj\Debug\netcoreapp3.1\LabOp1Sharp.AssemblyInfoInputs.cache
+D:\C# Projects\LabOp1sharp\ConsoleApp1\obj\Debug\netcoreapp3.1\LabOp1Sharp.AssemblyInfo.cs
+D:\C# Projects\LabOp1sharp\ConsoleApp1\obj\Debug\netcoreapp3.1\LabOp1Sharp.dll
+D:\C# Projects\LabOp1sharp\ConsoleApp1\obj\Debug\netcoreapp3.1\LabOp1Sharp.pdb
