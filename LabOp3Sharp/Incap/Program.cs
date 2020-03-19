@@ -37,7 +37,6 @@ namespace Incap
             {
                 symbols[row, col] = value;
                 if (value == 65 || value == 69 || value == 73 || value == 79 || value == 85 || value == 89 || value == 97 || value == 101 || value == 105 || value == 111 || value == 117 || value == 121) vowelCount++;
-                return;
             }
 
             public string this[int index]
