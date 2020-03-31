@@ -1,0 +1,12 @@
+D:\C# Projects\LabOp4Sharp\insruktor\bin\Debug\netcoreapp3.1\insruktor.exe
+D:\C# Projects\LabOp4Sharp\insruktor\bin\Debug\netcoreapp3.1\insruktor.deps.json
+D:\C# Projects\LabOp4Sharp\insruktor\bin\Debug\netcoreapp3.1\insruktor.runtimeconfig.json
+D:\C# Projects\LabOp4Sharp\insruktor\bin\Debug\netcoreapp3.1\insruktor.runtimeconfig.dev.json
+D:\C# Projects\LabOp4Sharp\insruktor\bin\Debug\netcoreapp3.1\insruktor.dll
+D:\C# Projects\LabOp4Sharp\insruktor\bin\Debug\netcoreapp3.1\insruktor.pdb
+D:\C# Projects\LabOp4Sharp\insruktor\obj\Debug\netcoreapp3.1\insruktor.csproj.CoreCompileInputs.cache
+D:\C# Projects\LabOp4Sharp\insruktor\obj\Debug\netcoreapp3.1\insruktor.AssemblyInfoInputs.cache
+D:\C# Projects\LabOp4Sharp\insruktor\obj\Debug\netcoreapp3.1\insruktor.AssemblyInfo.cs
+D:\C# Projects\LabOp4Sharp\insruktor\obj\Debug\netcoreapp3.1\insruktor.dll
+D:\C# Projects\LabOp4Sharp\insruktor\obj\Debug\netcoreapp3.1\insruktor.pdb
+D:\C# Projects\LabOp4Sharp\insruktor\obj\Debug\netcoreapp3.1\insruktor.genruntimeconfig.cache
