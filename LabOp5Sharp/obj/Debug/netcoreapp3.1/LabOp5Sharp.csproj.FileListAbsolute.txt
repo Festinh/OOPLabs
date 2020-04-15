@@ -1,0 +1,13 @@
+D:\C# Projects\LabOp5Sharp\bin\Debug\netcoreapp3.1\LabOp5Sharp.exe
+D:\C# Projects\LabOp5Sharp\bin\Debug\netcoreapp3.1\LabOp5Sharp.deps.json
+D:\C# Projects\LabOp5Sharp\bin\Debug\netcoreapp3.1\LabOp5Sharp.runtimeconfig.json
+D:\C# Projects\LabOp5Sharp\bin\Debug\netcoreapp3.1\LabOp5Sharp.runtimeconfig.dev.json
+D:\C# Projects\LabOp5Sharp\bin\Debug\netcoreapp3.1\LabOp5Sharp.dll
+D:\C# Projects\LabOp5Sharp\bin\Debug\netcoreapp3.1\LabOp5Sharp.pdb
+D:\C# Projects\LabOp5Sharp\obj\Debug\netcoreapp3.1\LabOp5Sharp.csproj.CoreCompileInputs.cache
+D:\C# Projects\LabOp5Sharp\obj\Debug\netcoreapp3.1\LabOp5Sharp.AssemblyInfoInputs.cache
+D:\C# Projects\LabOp5Sharp\obj\Debug\netcoreapp3.1\LabOp5Sharp.AssemblyInfo.cs
+D:\C# Projects\LabOp5Sharp\obj\Debug\netcoreapp3.1\LabOp5Sharp.dll
+D:\C# Projects\LabOp5Sharp\obj\Debug\netcoreapp3.1\LabOp5Sharp.pdb
+D:\C# Projects\LabOp5Sharp\obj\Debug\netcoreapp3.1\LabOp5Sharp.genruntimeconfig.cache
+D:\C# Projects\LabOp5Sharp\obj\Debug\netcoreapp3.1\LabOp5Sharp.csprojAssemblyReference.cache
