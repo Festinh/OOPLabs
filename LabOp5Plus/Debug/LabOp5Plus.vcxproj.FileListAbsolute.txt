@@ -1,0 +1,2 @@
+D:\C++ Projects\LabOp5Plus\Debug\LabOp5Plus.exe
+D:\C++ Projects\LabOp5Plus\Debug\LabOp5Plus.pdb
