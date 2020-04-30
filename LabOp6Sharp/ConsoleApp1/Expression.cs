@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.IO;
+
 
 namespace ConsoleApp1
 {
@@ -32,12 +34,16 @@ namespace ConsoleApp1
             double res = 0;
             try
             {
-                if (a < 1) throw new Exception("Natural logarithm error");
+                if (a < 1) throw new ArithmeticException();
                 res = Math.Log(a);
             }
-            catch (Exception e)
+            catch (Exception exp)
             {
-                Console.WriteLine(e.Message);
+
+                using (TextWriter log = new StreamWriter(@"D:\Programming\C# Projects\LabOp6Sharp\log.txt", true, System.Text.Encoding.Default))
+                {
+                    log.WriteLine("Natural logarithm error! Info: " + exp.Message + DateTime.Now);
+                }
             }
             return res;
         }
@@ -47,28 +53,34 @@ namespace ConsoleApp1
             double res = 0;
             try
             {
-                if (b == 0) throw new Exception("Division by zero error");
+                if (b == 0) throw new DivideByZeroException();
                 res = a / b;
             }
-            catch (Exception e)
+            catch (Exception exp)
             {
-                Console.WriteLine(e.Message);
+                using (TextWriter logExp = new StreamWriter(@"D:\Programming\C# Projects\LabOp6Sharp\log.txt", true, System.Text.Encoding.Default))
+                {
+                    logExp.WriteLine("Division by zero error! Info: " + exp.Message + DateTime.Now);
+                }
             }
             return res;
         }
 
-        public static double operator /(Expression exp, double number)
+        public static double operator /(Expression expr, double number)
         {
             double res = 0;
 
             try
             {
                 if (number == 0) throw new Exception("Dividing by zero error");
-                res = exp.a / number;
+                res = expr.a / number;
             }
             catch (Exception e)
             {
-                Console.WriteLine(e.Message);
+                using (TextWriter logExp = new StreamWriter(@"D:\Programming\C# Projects\LabOp6Sharp\log.txt", true, System.Text.Encoding.Default))
+                {
+                    logExp.WriteLine("Division by zero error! Info: " + e.Message + DateTime.Now);
+                }
             }
             return res;
         }

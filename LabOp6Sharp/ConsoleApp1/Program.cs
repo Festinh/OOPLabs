@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Expression[] exps = { new Expression(1, 3, 1, 1), new Expression(1, 2, 0, 3), new Expression(1, 1, 0, 0) };
+            Expression[] exps = { new Expression(1, -3, 0, 1), new Expression(1, 2, 0, 3), new Expression(1, 1, 0, 0) };
 
 
             Console.WriteLine("Calculating exps[0] = " + exps[0].Calculating());
