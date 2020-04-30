@@ -1,0 +1,4 @@
+Natural logarithm error! Info: Overflow or underflow in the arithmetic operation.30.04.2020 11:18:54
+Division by zero error! Info: Attempted to divide by zero.30.04.2020 11:18:54
+Division by zero error! Info: Attempted to divide by zero.30.04.2020 11:18:54
+Division by zero error! Info: Attempted to divide by zero.30.04.2020 11:18:54
