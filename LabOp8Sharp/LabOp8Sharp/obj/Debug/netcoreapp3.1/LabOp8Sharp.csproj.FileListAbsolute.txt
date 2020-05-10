@@ -1,0 +1,14 @@
+D:\Programming\C# Projects\LabOp8Sharp\LabOp8Sharp\obj\Debug\netcoreapp3.1\LabOp8Sharp.csprojAssemblyReference.cache
+D:\Programming\C# Projects\LabOp8Sharp\LabOp8Sharp\obj\Debug\netcoreapp3.1\LabOp8Sharp.csproj.CoreCompileInputs.cache
+D:\Programming\C# Projects\LabOp8Sharp\LabOp8Sharp\obj\Debug\netcoreapp3.1\LabOp8Sharp.AssemblyInfoInputs.cache
+D:\Programming\C# Projects\LabOp8Sharp\LabOp8Sharp\obj\Debug\netcoreapp3.1\LabOp8Sharp.AssemblyInfo.cs
+D:\Programming\C# Projects\LabOp8Sharp\LabOp8Sharp\bin\Debug\netcoreapp3.1\LabOp8Sharp.exe
+D:\Programming\C# Projects\LabOp8Sharp\LabOp8Sharp\bin\Debug\netcoreapp3.1\LabOp8Sharp.deps.json
+D:\Programming\C# Projects\LabOp8Sharp\LabOp8Sharp\bin\Debug\netcoreapp3.1\LabOp8Sharp.runtimeconfig.json
+D:\Programming\C# Projects\LabOp8Sharp\LabOp8Sharp\bin\Debug\netcoreapp3.1\LabOp8Sharp.runtimeconfig.dev.json
+D:\Programming\C# Projects\LabOp8Sharp\LabOp8Sharp\bin\Debug\netcoreapp3.1\LabOp8Sharp.dll
+D:\Programming\C# Projects\LabOp8Sharp\LabOp8Sharp\bin\Debug\netcoreapp3.1\LabOp8Sharp.pdb
+D:\Programming\C# Projects\LabOp8Sharp\LabOp8Sharp\obj\Debug\netcoreapp3.1\LabOp8Sharp.csproj.CopyComplete
+D:\Programming\C# Projects\LabOp8Sharp\LabOp8Sharp\obj\Debug\netcoreapp3.1\LabOp8Sharp.dll
+D:\Programming\C# Projects\LabOp8Sharp\LabOp8Sharp\obj\Debug\netcoreapp3.1\LabOp8Sharp.pdb
+D:\Programming\C# Projects\LabOp8Sharp\LabOp8Sharp\obj\Debug\netcoreapp3.1\LabOp8Sharp.genruntimeconfig.cache

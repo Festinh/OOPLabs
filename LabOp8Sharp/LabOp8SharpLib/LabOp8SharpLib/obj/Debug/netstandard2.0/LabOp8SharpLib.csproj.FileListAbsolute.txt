@@ -1,0 +1,9 @@
+D:\Programming\C# Projects\LabOp8SharpLib\LabOp8SharpLib\bin\Debug\netstandard2.0\LabOp8SharpLib.deps.json
+D:\Programming\C# Projects\LabOp8SharpLib\LabOp8SharpLib\bin\Debug\netstandard2.0\LabOp8SharpLib.dll
+D:\Programming\C# Projects\LabOp8SharpLib\LabOp8SharpLib\bin\Debug\netstandard2.0\LabOp8SharpLib.pdb
+D:\Programming\C# Projects\LabOp8SharpLib\LabOp8SharpLib\obj\Debug\netstandard2.0\LabOp8SharpLib.csprojAssemblyReference.cache
+D:\Programming\C# Projects\LabOp8SharpLib\LabOp8SharpLib\obj\Debug\netstandard2.0\LabOp8SharpLib.csproj.CoreCompileInputs.cache
+D:\Programming\C# Projects\LabOp8SharpLib\LabOp8SharpLib\obj\Debug\netstandard2.0\LabOp8SharpLib.AssemblyInfoInputs.cache
+D:\Programming\C# Projects\LabOp8SharpLib\LabOp8SharpLib\obj\Debug\netstandard2.0\LabOp8SharpLib.AssemblyInfo.cs
+D:\Programming\C# Projects\LabOp8SharpLib\LabOp8SharpLib\obj\Debug\netstandard2.0\LabOp8SharpLib.dll
+D:\Programming\C# Projects\LabOp8SharpLib\LabOp8SharpLib\obj\Debug\netstandard2.0\LabOp8SharpLib.pdb
