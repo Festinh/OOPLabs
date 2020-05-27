@@ -1,0 +1,13 @@
+D:\Programming\C# Projects\LabOp7Sharp\bin\Debug\netcoreapp3.1\LabOp7Sharp.exe
+D:\Programming\C# Projects\LabOp7Sharp\bin\Debug\netcoreapp3.1\LabOp7Sharp.deps.json
+D:\Programming\C# Projects\LabOp7Sharp\bin\Debug\netcoreapp3.1\LabOp7Sharp.runtimeconfig.json
+D:\Programming\C# Projects\LabOp7Sharp\bin\Debug\netcoreapp3.1\LabOp7Sharp.runtimeconfig.dev.json
+D:\Programming\C# Projects\LabOp7Sharp\bin\Debug\netcoreapp3.1\LabOp7Sharp.dll
+D:\Programming\C# Projects\LabOp7Sharp\bin\Debug\netcoreapp3.1\LabOp7Sharp.pdb
+D:\Programming\C# Projects\LabOp7Sharp\obj\Debug\netcoreapp3.1\LabOp7Sharp.csprojAssemblyReference.cache
+D:\Programming\C# Projects\LabOp7Sharp\obj\Debug\netcoreapp3.1\LabOp7Sharp.AssemblyInfoInputs.cache
+D:\Programming\C# Projects\LabOp7Sharp\obj\Debug\netcoreapp3.1\LabOp7Sharp.AssemblyInfo.cs
+D:\Programming\C# Projects\LabOp7Sharp\obj\Debug\netcoreapp3.1\LabOp7Sharp.csproj.CoreCompileInputs.cache
+D:\Programming\C# Projects\LabOp7Sharp\obj\Debug\netcoreapp3.1\LabOp7Sharp.dll
+D:\Programming\C# Projects\LabOp7Sharp\obj\Debug\netcoreapp3.1\LabOp7Sharp.pdb
+D:\Programming\C# Projects\LabOp7Sharp\obj\Debug\netcoreapp3.1\LabOp7Sharp.genruntimeconfig.cache
