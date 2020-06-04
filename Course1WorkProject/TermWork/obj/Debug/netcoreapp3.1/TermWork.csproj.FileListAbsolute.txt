@@ -1,0 +1,14 @@
+D:\Programming\C# Projects\Course1WorkProject\TermWork\bin\Debug\netcoreapp3.1\TermWork.exe
+D:\Programming\C# Projects\Course1WorkProject\TermWork\bin\Debug\netcoreapp3.1\TermWork.deps.json
+D:\Programming\C# Projects\Course1WorkProject\TermWork\bin\Debug\netcoreapp3.1\TermWork.runtimeconfig.json
+D:\Programming\C# Projects\Course1WorkProject\TermWork\bin\Debug\netcoreapp3.1\TermWork.runtimeconfig.dev.json
+D:\Programming\C# Projects\Course1WorkProject\TermWork\bin\Debug\netcoreapp3.1\TermWork.dll
+D:\Programming\C# Projects\Course1WorkProject\TermWork\bin\Debug\netcoreapp3.1\TermWork.pdb
+D:\Programming\C# Projects\Course1WorkProject\TermWork\obj\Debug\netcoreapp3.1\TermWork.csprojAssemblyReference.cache
+D:\Programming\C# Projects\Course1WorkProject\TermWork\obj\Debug\netcoreapp3.1\TermWork.AssemblyInfoInputs.cache
+D:\Programming\C# Projects\Course1WorkProject\TermWork\obj\Debug\netcoreapp3.1\TermWork.AssemblyInfo.cs
+D:\Programming\C# Projects\Course1WorkProject\TermWork\obj\Debug\netcoreapp3.1\TermWork.csproj.CoreCompileInputs.cache
+D:\Programming\C# Projects\Course1WorkProject\TermWork\obj\Debug\netcoreapp3.1\TermWork.dll
+D:\Programming\C# Projects\Course1WorkProject\TermWork\obj\Debug\netcoreapp3.1\TermWork.pdb
+D:\Programming\C# Projects\Course1WorkProject\TermWork\obj\Debug\netcoreapp3.1\TermWork.genruntimeconfig.cache
+D:\Programming\C# Projects\Course1WorkProject\TermWork\obj\Debug\netcoreapp3.1\TermWork.csproj.CopyComplete
