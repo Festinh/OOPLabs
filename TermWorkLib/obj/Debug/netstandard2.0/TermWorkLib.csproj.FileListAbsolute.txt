@@ -1,0 +1,9 @@
+D:\Programming\C# Projects\TermWorkLib\bin\Debug\netstandard2.0\TermWorkLib.deps.json
+D:\Programming\C# Projects\TermWorkLib\bin\Debug\netstandard2.0\TermWorkLib.dll
+D:\Programming\C# Projects\TermWorkLib\bin\Debug\netstandard2.0\TermWorkLib.pdb
+D:\Programming\C# Projects\TermWorkLib\obj\Debug\netstandard2.0\TermWorkLib.csprojAssemblyReference.cache
+D:\Programming\C# Projects\TermWorkLib\obj\Debug\netstandard2.0\TermWorkLib.AssemblyInfoInputs.cache
+D:\Programming\C# Projects\TermWorkLib\obj\Debug\netstandard2.0\TermWorkLib.AssemblyInfo.cs
+D:\Programming\C# Projects\TermWorkLib\obj\Debug\netstandard2.0\TermWorkLib.csproj.CoreCompileInputs.cache
+D:\Programming\C# Projects\TermWorkLib\obj\Debug\netstandard2.0\TermWorkLib.dll
+D:\Programming\C# Projects\TermWorkLib\obj\Debug\netstandard2.0\TermWorkLib.pdb

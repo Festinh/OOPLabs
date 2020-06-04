@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "M834ygTHlxbLo96Tz9A8jW06e70R8jhp49zR/OaopFg0xMD/mPmr03KKMuhsodHZh0+hnfaEU22Xym//Zy1sVA==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\C# Projects\\TermWorkLib\\TermWorkLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Festing\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Festing\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
