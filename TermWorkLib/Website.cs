@@ -48,7 +48,7 @@ namespace TermWorkLib
                         bool breakerG = true;
                         while (breakerG)
                         {
-                            Console.WriteLine("What do you want to do? \nTo see last news, enter 0. \nTo search some news, enter 1. \nTo check someone else's profile, enter 2. \nTo quit guest mode, enter 3.");
+                            Console.WriteLine("\nWhat do you want to do? \nTo see last news, enter 0. \nTo search some news, enter 1. \nTo check someone else's profile, enter 2. \nTo quit guest mode, enter 3.");
                             switch (Console.ReadLine())
                             {
                                 case "0":
@@ -244,7 +244,7 @@ namespace TermWorkLib
                                 Console.WriteLine("You are logged in.");
                                 while (breakerA)
                                 {
-                                    Console.WriteLine("What do you want to do? \nTo see last news, enter 0. \nTo search some news, enter 1. \nTo check someone else's profile, enter 2. \nTo write your own article, enter 3. \nTo log out of your profile, enter 4.");
+                                    Console.WriteLine("\nWhat do you want to do? \nTo see last news, enter 0. \nTo search some news, enter 1. \nTo check someone else's profile, enter 2. \nTo write your own article, enter 3. \nTo log out of your profile, enter 4.");
                                     switch (Console.ReadLine())
                                     {
                                         case "0":
@@ -459,11 +459,22 @@ namespace TermWorkLib
 
                     case "2":
                         Console.WriteLine("Great! Then enter your login, that everyone will see.");
+                        bool breakerLog = false;
                         string login = Console.ReadLine();
+                        for (int i = 0; i < accounts.Count; i++)
+                        {
+                            if (accounts[i].name == login)
+                            {
+                                Console.WriteLine("There is already an user with that login");
+                                breakerLog = true;
+                                break;
+                            }
+                        }
+                        if (breakerLog) break;
                         Console.WriteLine("Now enter your password");
                         string pass = Console.ReadLine();
                         accounts.Add(new Author(login, pass));
-                        Notify?.Invoke("You have successfully registered. Your login: " + login + ". Your password: " + pass);
+                        Notify?.Invoke("You have successfully registered.");
                         break;
                     case "3":
                         return;
